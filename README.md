@@ -1,5 +1,5 @@
 # some-nlp-functions
-NLP : Some NLP Functions
+NLP : 
 * Soundex
 * Levenshtein Edit Distance
 * Levenshtein Distance in 'nltk' Library
