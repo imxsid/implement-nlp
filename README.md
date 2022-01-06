@@ -15,7 +15,7 @@
     * Example III
 * Automatic POS Tagging + Lesk with spaCy
 
-# [learning-stemming-lemmatization](https://github.com/imxsid/implement-nlp/blob/main/learning-stemming-lemmatization.ipynb)
+# [stemming-lemmatization](https://github.com/imxsid/implement-nlp/blob/main/learning-stemming-lemmatization.ipynb)
 * Tokenisation
    * Word Tokenisation
    * Sentence Tokenisation
@@ -27,5 +27,5 @@
 * Lemmatizer
    * Wordnet Lemmatizer
 
-# [learning-spam-detector](https://github.com/imxsid/implement-nlp/blob/main/learning-spam-detector.ipynb)
+# [spam-detector](https://github.com/imxsid/implement-nlp/blob/main/learning-spam-detector.ipynb)
 * Naive Bayes Classifier
