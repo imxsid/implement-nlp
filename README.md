@@ -26,3 +26,6 @@
    * Snowball Stemmer
 * Lemmatizer
    * Wordnet Lemmatizer
+
+# [learning-spam-detector](https://github.com/imxsid/implement-nlp/blob/main/learning-spam-detector.ipynb)
+* Naive Bayes Classifier
